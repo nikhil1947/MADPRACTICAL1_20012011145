@@ -13,7 +13,7 @@ fun main(){
         8 -> print("August")
         9 -> print("September")
         10 -> print("October")
-        11 -> print("Nuvember")
+        11 -> print("November")
         12 -> print("December")
         else -> print("Enter proper number")
     }
