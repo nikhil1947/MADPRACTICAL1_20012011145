@@ -4,9 +4,9 @@ fun main()
     println("Integer Value: $i")
     var f:Float = 1.3F
     println("Float Value: $f")
-    var c:Char = 'H'
+    var c:Char = 'N'
     println("Character Value: $c")
-    var s:String = "harsh"
+    var s:String = "Nikhil"
     println("String Value: $s")
     var b:Boolean = false
     println("Boolean Value: $b")
